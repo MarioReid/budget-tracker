@@ -8,6 +8,9 @@ Add functionality to our existing Budget Tracker application to allow for offlin
 
 [GITHUB Link to Project](https://github.com/MarioReid/budget-tracker)
 
+## Budget Tracker
+![Screenshot of Budget Tracker application.](public/budget_tracker.png)
+
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
